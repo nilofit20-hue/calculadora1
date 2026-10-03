@@ -1,9 +1,8 @@
-
 import streamlit as st
 
-st.set_page_config(page_title="Calculadora de Materiales", page_icon="🧱", layout="centered")
+st.set_page_config(page_title="Calculadora de Johnny Jara", page_icon="🧱", layout="centered")
 
-st.title("🧱 Calculadora de Materiales para Obras Menores")
+st.title("🧱 Calculadora de Johnny Jara")
 st.write("Estima rápidamente la cantidad de insumos necesarios para tu mezcla de concreto.")
 
 # Selección del tipo de mezcla o resistencia
